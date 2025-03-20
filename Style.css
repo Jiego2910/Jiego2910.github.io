@@ -1,0 +1,20 @@
+Body{
+  background-color: lightblue;
+}
+h1{
+  color: navy;
+  margin-left: 20px;
+}
+.btn{
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+.btn:hover{
+  background-color: green;
+}
